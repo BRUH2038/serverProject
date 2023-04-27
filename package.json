@@ -1,0 +1,24 @@
+{
+  "name": "serverproject",
+  "version": "1.0.0",
+  "description": "To learn back-end coding",
+  "main": "server_one.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "dev": "node server_one.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BRUH2038/serverProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BRUH2038/serverProject/issues"
+  },
+  "homepage": "https://github.com/BRUH2038/serverProject#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
